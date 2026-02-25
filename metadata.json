@@ -1,0 +1,5 @@
+{
+  "name": "PPRA Tender Monitor",
+  "description": "A real-time monitoring system for active tenders from the Pakistan Public Procurement Regulatory Authority (PPRA).",
+  "requestFramePermissions": []
+}
